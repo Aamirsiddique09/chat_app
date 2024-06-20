@@ -49,7 +49,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [your-email@example.com](mailto:sidsiddique42@gmail.com).
+If you have any questions or suggestions, feel free to reach out to me at(mailto:sidsiddique42@gmail.com).
 
 ---
 
