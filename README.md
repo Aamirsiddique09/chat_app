@@ -1,5 +1,5 @@
 # ChatApp UI 
-chatapp.mp4
+
 A simple Flutter application that displays a list of messages and user avatars.
 
 
