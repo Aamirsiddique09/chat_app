@@ -33,10 +33,6 @@ To install and run this project locally, follow these steps:
 
 This app displays a list of messages from different users. Each message shows the sender's name, content, and time. Additionally, there is a horizontal list of user avatars at the top of the screen.
 
-### Screenshots
-
-![Messages Screen](screenshot.png)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -53,7 +49,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, feel free to reach out to me at [your-email@example.com](mailto:sidsiddique42@gmail.com).
 
 ---
 
