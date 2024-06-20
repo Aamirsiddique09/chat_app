@@ -2,6 +2,7 @@
 
 A simple Flutter application that displays a list of messages and user avatars.
 
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -15,7 +16,7 @@ To install and run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/flutter-message-app.git
+    git clone https://github.com/Aamirsiddique09/chat_app.git
     cd flutter-message-app
     ```
 
