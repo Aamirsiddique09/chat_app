@@ -3,7 +3,7 @@
 A simple Flutter application that displays a list of messages and user avatars.
 ## Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video]()]([https://www.youtube.com/watch?v=VIDEO_ID](https://github.com/Aamirsiddique09/chat_app/blob/3ea8b42457d16ffa98e94e20d0cbc339ba1a6150/chatapp.mp4))
 
 
 ## Table of Contents
